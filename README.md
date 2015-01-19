@@ -9,5 +9,5 @@ Stories completed :
 3. Settings page displaying input field to enter the required tip percentage. 
 4. This will be saved as the user default which will be used in the main page for calculating the tip amount for the entered amount. 
 
-
+![alt tag](https://raw.githubusercontent.com/vmkolli/Mkd_iOS_Tip_Calculator_App/master/MkdTipCalculatorDemo.gif)
 
