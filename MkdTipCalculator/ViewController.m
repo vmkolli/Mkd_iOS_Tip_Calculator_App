@@ -64,6 +64,7 @@
     NSString *stringValue = [defaults objectForKey:@"tipPercentage"];
     float storedTipPercentage = [stringValue floatValue];
     self.currentTipPercentage.text = [NSString stringWithFormat:@"%0.2f %", storedTipPercentage];
+   
     float amountToBePaid = [self.amountValueField.text floatValue];
     
     float tipAmount = amountToBePaid * storedTipPercentage;
